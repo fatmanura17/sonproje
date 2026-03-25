@@ -38,15 +38,4 @@ CatBoost, Random Forest ve Logistic Regression gibi modellerle yapılan çapraz 
 * **Görselleştirme & Açıklanabilirlik:** `matplotlib`, `shap`
 * **Eksik Veri Tamamlama:** `KNNImputer`
 
----
 
-## ⚙️ Kurulum ve Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
-
-**1. Repoyu Klonlayın:**
-```bash
-git clone [https://github.com/kullaniciadiniz/Kodon-X.git](https://github.com/kullaniciadiniz/Kodon-X.git)
-cd Kodon-X
-
-##
