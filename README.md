@@ -27,7 +27,7 @@ CatBoost, Random Forest ve Logistic Regression gibi modellerle yapılan çapraz 
 | **Model** | XGBoost (GridSearch Optimized) |
 | **Duyarlılık (Recall)** | **%91.2** *(0.30 Eşik Değeri İle)* |
 | **Açıklanabilirlik** | %100 SHAP Uyumlu (Ağaç Tabanlı) |
-| **İterasyon Başı Süre** | ~X.XX ms (Apple M4) |
+| **İterasyon Başı Süre** | ~0.73 ms (Apple M4) |
 
 ---
 
